@@ -1,7 +1,7 @@
 # conwayprofile-rust
 Generate hashed Game of Life patterns from the command line
 
-There's a portable .exe in target/release
+There's a portable .exe in the root folder
 
 Pop that in any directory, go to it in cmd and run conwayprofile
 
