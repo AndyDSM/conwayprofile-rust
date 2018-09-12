@@ -1,0 +1,9 @@
+[package]
+name = "conwayprofile"
+version = "0.1.0"
+authors = ["Andy <andranadu@gmail.com>"]
+
+[dependencies]
+gif = "0.10.0"
+rust-crypto = "0.2.36"
+rand = "0.5.5"
